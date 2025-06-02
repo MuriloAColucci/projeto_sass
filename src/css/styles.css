@@ -1,0 +1,17 @@
+.image {
+  width: 70px;
+  height: 100px;
+}
+
+body {
+  background-color: black;
+}
+
+.header {
+  background-color: darkkhaki;
+  padding: 70px;
+}
+.header h1 {
+  color: red;
+  font-family: cursive;
+}

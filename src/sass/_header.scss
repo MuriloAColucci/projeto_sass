@@ -1,0 +1,11 @@
+@use "./variables" as *;
+
+.header {
+    background-color: darkkhaki;
+    padding: 70px;
+    
+    h1 {
+        color: $color;
+        font-family: $fontFamily;
+    }
+}
